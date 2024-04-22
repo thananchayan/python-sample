@@ -1,1 +1,1 @@
-print("Thana");
+print("Thananchayan");
